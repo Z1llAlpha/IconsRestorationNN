@@ -1,7 +1,7 @@
 # IconsRestorationNN
 Нейросеть для реставрации древнерусской иконописи.
 
-Основана на рабоет AOT GAN for inpainting: https://github.com/researchmm/AOT-GAN-for-Inpainting 
+Основана(нейросеть дообучалась на нашем собственном наборе данных) на работе AOT GAN for inpainting: https://github.com/researchmm/AOT-GAN-for-Inpainting 
 
 ```
 @inproceedings{yan2021agg,
